@@ -364,14 +364,10 @@ a {
 
 }
 
-/* #picture1{
-    width: 100%;
-    height: 100%;
-} */
 #picture {
     width: 100%;
     height: 300px;
-    background-image: url(/frontpage/picture.png);
+    background-image: url(/frontpage/picture/picture.png);
     background-size: cover;
     background-repeat: no-repeat;
     animation-name: animate;
@@ -554,20 +550,20 @@ a {
 
 @keyframes animate {
     25% {
-        background-image: url(/frontpage/picture1.png);
+        background-image: url(/frontpage/picture/picture1.png);
         background-repeat: no-repeat;
         background-size: cover;
 
     }
 
     55% {
-        background-image: url(/frontpage/picture2.png);
+        background-image: url(/frontpage/picture/picture1.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
 
     80% {
-        background-image: url(/frontpage/picture3.png);
+        background-image: url(/frontpage/picture/picture1.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -582,7 +578,7 @@ a {
     #picture {
         width: 100%;
         height: 200px;
-        background-image: url(/picture.png);
+        background-image: url(/frontpage/picture/picture.png);
         background-size: cover;
         background-repeat: no-repeat;
         animation-name: animate;
@@ -592,20 +588,20 @@ a {
 
     @keyframes animate {
         25% {
-            background-image: url(/picture1.png);
+            background-image: url(/frontpage/picture/picture1.png);
             background-repeat: no-repeat;
             background-size: cover;
 
         }
 
         55% {
-            background-image: url(/picture2.png);
+            background-image: url(/frontpage/picture/picture2.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
 
         80% {
-            background-image: url(/picture3.png);
+            background-image: url(/frontpage/picture/picture3.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
@@ -621,7 +617,7 @@ a {
     #picture {
         width: 100%;
         height: 200px;
-        background-image: url(/picture.png);
+        background-image: url(/frontpage/picture/picture.png);
         background-size: cover;
         background-repeat: no-repeat;
         animation-name: animate;
@@ -639,20 +635,20 @@ a {
 
     @keyframes animate {
         25% {
-            background-image: url(/picture1.png);
+            background-image: url(/frontpage/picture/picture1.png);
             background-repeat: no-repeat;
             background-size: cover;
 
         }
 
         55% {
-            background-image: url(/picture2.png);
+            background-image: url(/frontpage/picture/picture2.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
 
         80% {
-            background-image: url(/picture3.png);
+            background-image: url(/frontpage/picture/picture3.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
@@ -668,7 +664,7 @@ a {
     #picture {
         width: 100%;
         height: 150px;
-        background-image: url(/picture.png);
+        background-image: url(/frontpage/picture/picture.png);
         background-size: cover;
         background-repeat: no-repeat;
         animation-name: animate;
@@ -686,20 +682,20 @@ a {
 
     @keyframes animate {
         25% {
-            background-image: url(/picture1.png);
+            background-image: url(/frontpage/picture/picture1.png);
             background-repeat: no-repeat;
             background-size: cover;
 
         }
 
         55% {
-            background-image: url(/picture2.png);
+            background-image: url(/frontpage/picture/picture2.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
 
         80% {
-            background-image: url(/picture3.png);
+            background-image: url(/frontpage/picture/picture3.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
@@ -745,7 +741,7 @@ a {
     #picture {
         width: 100%;
         height: 100px;
-        background-image: url(/picture.png);
+        background-image: url(/frontpage/picture/picture.png);
         background-size: cover;
         background-repeat: no-repeat;
         animation-name: animate;
@@ -763,20 +759,20 @@ a {
 
     @keyframes animate {
         25% {
-            background-image: url(/picture1.png);
+            background-image: url(/frontpage/picture/picture1.png);
             background-repeat: no-repeat;
             background-size: cover;
 
         }
 
         55% {
-            background-image: url(/picture2.png);
+            background-image: url(/frontpage/picture/picture2.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
 
         80% {
-            background-image: url(/picture3.png);
+            background-image: url(/frontpage/picture/picture3.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
@@ -809,7 +805,7 @@ a {
     #picture {
         width: 100%;
         height: 80px;
-        background-image: url(/picture.png);
+        background-image: url(/frontpage/picture/picture.png);
         background-size: cover;
         background-repeat: no-repeat;
         animation-name: animate;
@@ -823,20 +819,20 @@ a {
 
     @keyframes animate {
         25% {
-            background-image: url(/picture1.png);
+            background-image: url(/frontpage/picture/picture1.png);
             background-repeat: no-repeat;
             background-size: cover;
 
         }
 
         55% {
-            background-image: url(/picture2.png);
+            background-image: url(/frontpage/picture/picture2.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
 
         80% {
-            background-image: url(/picture3.png);
+            background-image: url(/frontpage/picture/picture3.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
@@ -852,7 +848,7 @@ a {
     #picture {
         width: 100%;
         height: 70px;
-        background-image: url(/picture.png);
+        background-image: url(/frontpage/picture/picture.png);
         background-size: cover;
         background-repeat: no-repeat;
         animation-name: animate;
@@ -866,20 +862,20 @@ a {
 
     @keyframes animate {
         25% {
-            background-image: url(/picture1.png);
+            background-image: url(/frontpage/picture/picture1.png);
             background-repeat: no-repeat;
             background-size: cover;
 
         }
 
         55% {
-            background-image: url(/picture2.png);
+            background-image: url(/frontpage/picture/picture2.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
 
         80% {
-            background-image: url(/picture3.png);
+            background-image: url(/frontpage/picture/picture3.png);
             background-repeat: no-repeat;
             background-size: cover;
         }
